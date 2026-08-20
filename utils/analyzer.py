@@ -1,12 +1,12 @@
 """
 Forwarding module to utils.analyzer for backward compatibility.
 """
-
- 
+from utils.analyzer import (
     analyze_strengths_and_weaknesses,
     analyze_ats_compatibility,
     generate_improvement_suggestions,
     ACTION_VERBS
+)
 
 from utils.matching import (
     calculate_tfidf_similarity,
