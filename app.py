@@ -1,7 +1,7 @@
 """
 AI Resume Analyzer & Job Match Assistant - Production Application
 A local-first, production-ready AI application that extracts resume text from PDFs,
-analyzes candidate-job fit, computes multi-dimensional ATS match scores, detects missing skills/keywords,
+analyzes candidate-job fit, computes multi-dimensional ATS match scores, detects missing sakills/keywords,
 provides deep Google Gemini AI feedback, and generates personalized professional cover letters.
 """
 
